@@ -1,16 +1,40 @@
-## Hi there 👋
+# ⚡ linnaid
 
-<!--
-**linnaid/linnaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems;Latency+Matters;Designing+for+Failure" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=linnaid&color=00f7ff&style=flat-square" />
+</p>
+
+
+---
+
+## ⚡ LIVE SIGNAL
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linnaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linnaid&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+
+---
+
+## 📈 ACTIVITY STREAM
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=linnaid&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+</p>
+
+
+---
+
+
+<p align="center">
+  ⚡ systems over scripts ⚡
+</p>
+
