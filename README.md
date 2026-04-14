@@ -1,8 +1,7 @@
 ## Hi, I'm Linnaid 👋
 
 - Distributed Systems Engineer
-- Working on Raft / Storage Engine / Skip List
-- C++ / Go
+- C / C++ / Go
 
 📫 Email: linnaid0105@gmail.com
 
